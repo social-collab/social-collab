@@ -9,7 +9,7 @@ If you notice my files and folders going in an improper direction, please let me
 
 ## Database Login Required
 
-This site is fully functional and dependent on the use of a database. To work on this website (and test), you'll need to setup a php environment or use a host/vps. Change the config.php file in the root to include your database credentials.
+This site is fully functional and dependent on the use of a database. To work on this website (and test), you'll need to setup a php environment or use a host/vps. Change the config.php file in the root to include your database credentials. **DO NOT** make these credentials public. Mask (******) them before pushing to github.
 
 ## Password Encryption
 
@@ -61,7 +61,6 @@ The following ways to earn digital currency and the values are in the brainstorm
 * Posting Status (31 to 250 words, with image - 3 posts per day): $1,000 DC
 * Posting Status (251 and up words, with image - 3 posts per day): $2,500 DC
 
-Feature Suggestions
-===
+## Feature Suggestions
 
 Anyone may edit this section with their ideas.
