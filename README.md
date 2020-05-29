@@ -81,7 +81,7 @@ The following ways to earn digital currency and the values are in the brainstorm
 * Adding Family Relationships: $10 DC each
 * And more ideas to come...
 
-## Ways to Spend Digital Currency
+### Ways to Spend Digital Currency
 
 * Go Viral&copy; 1 - $10,000 DC each
 * Go Viral&copy; 2 - $100,000 DC each
@@ -94,6 +94,35 @@ The following ways to earn digital currency and the values are in the brainstorm
         * Go Viral&copy; 4 - $19.99 each
 * Causes
     * Causes is an old idea being revived. Users can spend DC for real causes. For example, maybe $150,000 DC will buy one Teddy bear to help the fight against child abuse. When a User spends the DC for their cause, we in turn, will spend real money on that cause. The amounts will vary greatly for each cause. Users earn badges for total amount of DC spent in causes. This makes doing this like a fun game. Causes will be explained in more detail later.
+
+## Normal / Expected Features
+
+* Posting Status Updates
+* Commenting on Status Updates
+* Replying to Comments
+* Liking Posts, Comments, and Replies
+* Adding & Deleting Friends
+* Blocking Users
+* Privacy Settings
+* Profile Pages
+* Photo Uploading
+* Messaging Friends and Other Users
+    * Other users can set a privacy setting to disallow non-friends from messaging
+* Complete Profile Information (About, relationships, employment, photos, etc.)
+* Instant Messaging
+    * **Need a developer for this**. My main programming language, PHP, is insufficient for this. Ajax, JavaScript, or some other language recommended over PHP.
+
+## Game Platform
+
+* Playing Games
+* Developers can create Games
+* Users can earn DC by reaching milestones in games, e.g., reaching level one of this game = $100 DC.
+
+And you guessed it... **I need a developer** for this. I wish to create a platform similar to Facebook where any developer can deploy a game (Developer Central, etc.). I also wish for some games to be created by the developers of this open source in addition to third-parties doing so.
+
+## Admin Dashboard
+
+Admin dashboard will be for admins, webmasters, etc. Admins for example can delete users on the front end, review flagged posts, view analytics, and way more.
 
 ## Feature Suggestions
 
