@@ -7,6 +7,8 @@ My name is **Donald** and I am a PHP developer. However, I have never contribute
 
 I would greatly appreciate collaborators and guidance, especially in relation to the file structure. Another drawback I have, I generally only write PHP PDO as that's what I know. I especially would like to find Ajax and JavaScript developers to assist in collaboration as I lack some skills in those areas.
 
+**UPDATE:** Since writing this, I have recently learned some JavaScript and will learn more JavaScript in future courses at [Lambda School](https://lambdaschool.com).
+
 If you notice my files and folders going in an improper direction, please let me know. You can reach me at admin@social-collab.org. I greatly appreciate it. Thanks.
 
 ## Database Login Required
