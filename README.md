@@ -124,6 +124,23 @@ And you guessed it... **I need a developer** for this. I wish to create a platfo
 
 Admin dashboard will be for admins, webmasters, etc. Admins for example can delete users on the front end, review flagged posts, view analytics, and way more.
 
+## Mx Server
+
+Users will have their own email address, username@domain.com. When a message is received from an external mx server (i.e. mail.google.com), the message will appear in the same place as internal messages, but in a separate tab. I **need a developer** for this.
+
 ## Feature Suggestions
 
 Anyone may edit this section with their ideas.
+
+## Looking for Developers
+
+If you fit one of the following criteria, you may contribute as non-paid, open source developer. Those with sufficient experience and/or education can request to become a collaborator on this project. If you don't wish to be a collaborator or don't have sufficient experience, you can fork your own copy and request merges for valuable additions.
+
+1. PHP Developers, preferably laravel (as my experience is PDO-only) and I think laravel would serve purposes better
+2. Ajax, JQuery, JSON, and JavaScript Developers
+3. C++, Python, and other similar languages for the development of downloadable apps.
+    1. Any webmaster that deploys this source code as their own project will have access to delivering these downloadable apps also as their own to their users.
+4. Android and iOS Developers for downloadable apps
+    1. Any webmaster that deploys this source code as their own project will have access to delivering these downloadable apps also as their own to their users.
+5. Browser Plugin Software Engineers for the development of Chrome and Firefox plugins.
+    1. Any webmaster that deploys this source code as their own project will have access to delivering these plugins as their own to their users.
