@@ -62,12 +62,38 @@ The following ways to earn digital currency and the values are in the brainstorm
 * 30 Consecutive Daily Logins: $4,500 DC
 * 180 Consecutive Daily Logins: $45,000 DC
 * 365 Consecutive Daily Logins: $100,000 DC
-* Posting Status (1 to 30 words, no image - 3 posts per day): $10 DC
-* Posting Status (31 to 250 words, no image - 3 posts per day): $100 DC
-* Posting Status (251 and up words, no image - 3 posts per day): $250 DC
-* Posting Status (1 to 30 words, with image - 3 posts per day): $100 DC
-* Posting Status (31 to 250 words, with image - 3 posts per day): $1,000 DC
-* Posting Status (251 and up words, with image - 3 posts per day): $2,500 DC
+* Posting Status (1 to 30 words, no image - 3 posts per day): $10 DC each
+* Posting Status (31 to 250 words, no image - 3 posts per day): $100 DC each
+* Posting Status (251 and up words, no image - 3 posts per day): $250 DC each
+* Posting Status (1 to 30 words, with image - 3 posts per day): $100 DC each
+* Posting Status (31 to 250 words, with image - 3 posts per day): $1,000 DC each
+* Posting Status (251 and up words, with image - 3 posts per day): $2,500 DC each
+* Commenting on a Status (10 times per day): $100 DC each
+* Liking a Status or Comment (25 times per day): $25 DC each
+* Sharing someone else's Status (10 times per day): $100 DC each
+* Creating a Business or Group Page AND verifying the Business or Group (5 lifetime total): $10,000 DC each
+* Getting first friend: $250 DC
+* Every subsequent friend: $25 DC each
+* Completing Profile: $2,500 DC each
+* Uploading first Profile Image: $1,000 DC
+* Uploading subsequent Images: $25 DC each
+* Changing theme from Default (1st time): $250 DC
+* Adding Family Relationships: $10 DC each
+* And more ideas to come...
+
+## Ways to Spend Digital Currency
+
+* Go Viral&copy; 1 - $10,000 DC each
+* Go Viral&copy; 2 - $100,000 DC each
+* Go Viral&copy; 3 - $250,000 DC each
+* Go Viral&copy; 4 - $1,000,000 DC each
+    * Go Viral&copy; is a unique and original idea, never done before on Social Media. The use of this must remain within the source code of social-collab. Copyright and License information must remain intact within the code for it's use. Real Money can also be spent on Go Viral, if chosen. This will seem like a promoted post as seen on other social media, but it's slightly different:
+        * Go Viral&copy; 1 - $0.99 each
+        * Go VIral&copy; 2 - $2.99 each
+        * Go Viral&copy; 3 - $7.99 each
+        * Go Viral&copy; 4 - $19.99 each
+* Causes
+    * Causes is an old idea being revived. Users can spend DC for real causes. For example, maybe $150,000 DC will buy one Teddy bear to help the fight against child abuse. When a User spends the DC for their cause, we in turn, will spend real money on that cause. The amounts will vary greatly for each cause. Users earn badges for total amount of DC spent in causes. This makes doing this like a fun game. Causes will be explained in more detail later.
 
 ## Feature Suggestions
 
