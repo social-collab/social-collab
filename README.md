@@ -11,6 +11,10 @@ I would greatly appreciate collaborators and guidance, especially in relation to
 
 If you notice my files and folders going in an improper direction, please let me know. You can reach me at admin@social-collab.org. I greatly appreciate it. Thanks.
 
+## ADDITIONAL LICENSE REQUIREMENTS: MUST READ
+
+Some features you see below may be unique / original ideas that have never been done before. They will be marked as such. These features may be used solely WITHIN THE SOURCE CODE OF SOCIAL-COLLAB. You may use these features IF you are also using social-collab source code. You may NOT use these features on a separately-built website. Doing so will be considered intellectual-property theft. You furthermore agree not to share these ideas without first showing the third-party this paragraph and [this license](https://github.com/social-collab/social-collab/blob/master/LICENSE).
+
 ## Database Login Required
 
 This site is fully functional and dependent on the use of a database. To work on this website (and test), you'll need to setup a php environment or use a host/vps. Change the config.php file in the root to include your database credentials. **DO NOT** make these credentials public. Mask (******) them before pushing to github.
