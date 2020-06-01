@@ -144,3 +144,39 @@ If you fit one of the following criteria, you may contribute as non-paid, open s
     1. Any webmaster that deploys this source code as their own project will have access to delivering these downloadable apps also as their own to their users.
 5. Browser Plugin Software Engineers for the development of Chrome and Firefox plugins.
     1. Any webmaster that deploys this source code as their own project will have access to delivering these plugins as their own to their users.
+
+## Proposed File Structure
+
+### Themes
+Themes can be easily created by anyone using a template or created by experienced individuals without a template.
+
+#### Default Themes
+These themes are default when a new user first logs in and on pages when a user is logged out.
+
+#### Custom Themes
+Any user can switch to these themes
+
+#### Premium Themes
+Any user can switch to these themes after purchasing the theme. These are usually higher quality themes, often with better graphics and possibly additional features. Theme purchases are split 80% to theme author (the creator of the theme) and 20% to the owner of the social network.
+
+### Plugins
+Plugins are usually created by experienced individuals and add functionality to the social network as a whole. Admins and webmasters activate plugins they wish to implement.
+
+#### Default Plugins
+These plugins are often necessary for basic functionality and are activated by default.
+
+#### Custom Plugins
+Can be created by anyone with the experience to do so. Custom Plugins add functionality to the social network.
+
+#### Premium Plugins
+These are activated by the webmaster or admins of the social network and are purchased by the webmaster or admin. 100% of plugin purchases are given to the author of the plugin.
+
+### Styles
+
+#### Core Styles
+Doesn't change regardless of the user's selected theme. These are necessary styles used globally.
+
+### Admin
+
+#### Control Panel
+This is for site operations of admins and webmasters, such as deleting members, reviewing flagged posts, and a lot more.
