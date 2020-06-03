@@ -23,7 +23,7 @@ Some features you see below may be unique / original ideas that have never been 
 
 This site is fully functional and dependent on the use of a database. To work on this website (and test), you'll need to setup a php environment or use a host/vps. Change the config.php file in the root to include your database credentials. **DO NOT** make these credentials public. Mask (******) them before pushing to github.
 
-You should be able to deploy your own forked copy to netlify and use the [FaunaDB add-on](https://www.netlify.com/tags/database/#:~:text=All%20posts%20%2F%20database&text=The%20FaunaDB%20add%2Don%20for%20Netlify%20lets%20you%20seamlessly%20plug,build%20stateful%20apps%20on%20Netlify.). I've never used it, so let me know how this works.
+You should be able to deploy your own forked copy to [Netlify](https://netlify.com) and use the [FaunaDB add-on](https://www.netlify.com/tags/database/#:~:text=All%20posts%20%2F%20database&text=The%20FaunaDB%20add%2Don%20for%20Netlify%20lets%20you%20seamlessly%20plug,build%20stateful%20apps%20on%20Netlify.). I've never used it, so let me know how this works.
 
 ## Password Encryption
 
