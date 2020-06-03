@@ -3,6 +3,8 @@
 
 **OFFICIAL WEBSITE** [Social Collab](http://social-collab.org) - This site exists, but no content is available yet. This site will in the near future, have a demo of this open source project.
 
+This readme file is still be created. Here is what I have so far.
+
 My name is **Donald** and I am a PHP developer. However, I have never contributed to open source projects or created some myself. I have used open source and edited them for personal use. This is my first open source project, a social networking platform. I have created a really good social network (still creating and never launched, yet), but recently, decided to start fresh from scratch and make it adaptable for open source, allowing such things as plugins, components, etc.
 
 **UPDATE:** Since writing this, I have recently started learning how to use GitHub, thanks to [Lambda School](https://lambdaschool.com).
