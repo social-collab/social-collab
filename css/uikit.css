@@ -1,4 +1,3 @@
-<style>
 /*! UIkit 3.5.3 | https://www.getuikit.com | (c) 2014 - 2020 YOOtheme | MIT License */
 /* ========================================================================
    Component: Base
@@ -8,7 +7,6 @@
  *    Not using `font` property because a leading hyphen (e.g. -apple-system) causes the font to break in IE11 and Edge
  * 2. Prevent adjustments of font size after orientation changes in iOS.
  * 3. Style
- * 4. Social-Collab Customization. Changed file to .php and added style tags to allow php variable insertion
  */
 html {
   /* 1 */
@@ -19,8 +17,8 @@ html {
   /* 2 */
   -webkit-text-size-adjust: 100%;
   /* 3 */
-  background: #<?php echo $theme_color2; ?>;
-  color: #<?php echo $theme_color3; ?>;
+  background: #fff;
+  color: #000;
 }
 /*
  * Remove the margin in all browsers.
@@ -42,7 +40,7 @@ a:hover {
  */
 a,
 .uk-link {
-  color: #<?php echo $theme_color3; ?>;  /* CHANGE COLOR LINK WHEN TEST ELEMENT EXISTS ON PAGE */
+  color: #000;  /* CHANGE COLOR LINK WHEN TEST ELEMENT EXISTS ON PAGE */
   text-decoration: none;
   cursor: pointer;
 }
@@ -248,7 +246,7 @@ h6,
   margin: 0 0 20px 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: normal;
-  color: <?php echo $theme_color3; ?>; /* CHANGE THIS COLOR WHEN TEST ELEMENT EXISTS ON PAGE */
+  color: #000; /* CHANGE THIS COLOR WHEN TEST ELEMENT EXISTS ON PAGE */
   text-transform: none;
 }
 /* Add margin if adjacent element */
