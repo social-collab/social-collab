@@ -1,0 +1,33 @@
+<style>
+
+    .hide {
+        display:none;
+    }
+
+</style>
+
+<button id="show">Show</button>
+<button class="hide" id="hide">Hide</button>
+<div class="hide" id="content">
+    Hide or Show this Content
+</div>
+
+<script>
+
+    const showButton = document.getElementById('show');
+    const hideButton = document.getElementById('hide');
+    const content = document.getElementById('content');
+    
+    showButton.addEventListener("click", function() {
+        showButton.classList.add("hide");
+        content.classList.remove("hide");
+        hideButton.classList.remove("hide");
+    });
+    
+    hideButton.addEventListener("click", function() {
+        showButton.classList.remove("hide");
+        content.classList.add("hide");
+        hideButton.classList.add("hide");
+    });
+    
+</script>
